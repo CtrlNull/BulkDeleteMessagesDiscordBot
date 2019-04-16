@@ -1,0 +1,22 @@
+{
+  "name": "bulkdeletebot",
+  "version": "1.0.0",
+  "description": "Bulk message delete or purge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CtrlNull/BulkDeleteMessagesDiscordBot.git"
+  },
+  "author": "Ctrl_Null",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CtrlNull/BulkDeleteMessagesDiscordBot/issues"
+  },
+  "homepage": "https://github.com/CtrlNull/BulkDeleteMessagesDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
